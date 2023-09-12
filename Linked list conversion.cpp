@@ -1,4 +1,4 @@
-//Mason Clark(MXC220017)
+//Mason Clark
 #include <iostream>
 #include <iomanip>
 #include <fstream>
